@@ -76,5 +76,5 @@ typings/
 .fusebox/
 
 # React Native
-./android
-./ios
+android/
+ios/
