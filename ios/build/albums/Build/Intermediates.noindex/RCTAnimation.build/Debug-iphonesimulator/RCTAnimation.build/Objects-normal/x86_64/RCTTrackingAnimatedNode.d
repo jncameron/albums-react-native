@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/johncameron/Projects/albums/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.m \
+  /Users/johncameron/Projects/albums/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h \
+  /Users/johncameron/Projects/albums/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/johncameron/Projects/albums/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/johncameron/Projects/albums/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/johncameron/Projects/albums/ios/build/albums/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h
